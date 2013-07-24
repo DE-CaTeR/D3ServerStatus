@@ -5,7 +5,10 @@ import java.util.ArrayList;
 import javax.swing.JFrame;
 
 
-
+/**
+ * @author Carsten
+ *
+ */
 public class Main {
 
 	/**
