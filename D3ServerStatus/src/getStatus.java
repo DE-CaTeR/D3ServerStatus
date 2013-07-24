@@ -20,7 +20,7 @@ import org.htmlparser.util.*;
 
 public class getStatus
 {
-	// CONSTANTEN
+	// CONSTANTEN on Page
 	final String cCategorie = "header-3";
 	final String cSubcategorie = "subheader-3";
 	final String cServer = "server";
